@@ -649,7 +649,7 @@ GameObject:
   m_Component:
   - component: {fileID: 7206301437170746241}
   m_Layer: 0
-  m_Name: Flor
+  m_Name: Flores
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
